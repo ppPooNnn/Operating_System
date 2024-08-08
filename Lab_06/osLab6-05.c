@@ -58,5 +58,6 @@ int main()
 		if(input == 'q')
 			break;
 		while(wait(NULL) != -1);
+		//-------------------end of my code-------------------
 	}
 }
